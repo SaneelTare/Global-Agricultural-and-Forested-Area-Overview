@@ -7,3 +7,5 @@ Proficiently developed interactive Tableau dashboard integrating diverse dataset
 •	Visualized essential KPIs and formulated comprehensive bar charts, offering a clear overview of critical metrics, resulting in a 40% improvement in data-driven decision-making.
 •	Applied advanced formatting techniques including containers, padding, shading, and precise number formatting, enhancing dashboard aesthetics and readability.
 •	Engineered interactive dashboard features utilizing views as filters, enabling seamless user interaction and exploration of specific data segments, resulting in a 25% increase in user engagement and analysis efficiency.
+
+![image](https://github.com/SaneelTare/Global-Agricultural-and-Forested-Area-Overview/assets/90349506/fb201139-0bea-4046-908f-1a715598e6e9)
